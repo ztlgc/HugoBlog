@@ -11,7 +11,7 @@ preserveTaxonomyNames = true
 disablePathToLower = true
 
 hasCJKLanguage = true
-summaryLength = 140
+summaryLength = 10
 
 # disqusShortname = "yourdiscussshortname"  ## 是否开启disqus评论，不要和utteranc同时开启
 
@@ -20,9 +20,10 @@ summaryLength = 140
 [params]
   author = "ztlgc"
   subtitle = "看看时间都花在什么上面了"
-  keywords = "java,博客,项目管理,python"
-  description = "专注于IT互联网，包括但不限于Go语言(golang)、Java、Android、Python、项目管理、抖音分析、软件架构等"
+  keywords = "java,博客,python"
+  description = "专注于IT互联网，包括但不限于、Java、Android、Python、数据分析等"
   busuanzi = true #启用不算子网页统计
+  
   # googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
   localSearch = true # 启用本地搜索
 
@@ -33,7 +34,9 @@ summaryLength = 140
   # if ['custom.js'], load '/static/js/custom.js' file
 
   # 全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能
-  toc = true  # 是否开启目录
+  toc = false  # 是否开启目录
+
+
 
 ## 友情链接，可以多个
 
@@ -42,10 +45,6 @@ summaryLength = 140
   name = "又在折腾什么呢"
   url = "https://www.flysnow.org/"
 
-[[params.links]]
-  title = "Android Gradle权威指南"
-  name = "Android Gradle权威指南"
-  url = "http://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e"
 
 ## 侧边栏广告位
 #[[params.ads]]
@@ -93,3 +92,10 @@ summaryLength = 140
     name = "关于"
     url = "/about/"
     weight = 4
+
+
+[params.sequenceDiagrams]
+    enable = true
+
+[params.flowchartDiagrams]
+  enable = true

@@ -1,7 +1,7 @@
 ---
 title: Jypyter notebook代码高亮和自动补全
 subtitle: Jypyter notebook代码高亮和自动补全
-date: 2020-4-27
+date: 2020-04-17
 tags: ["python", "jupyter"]
 ---
 
