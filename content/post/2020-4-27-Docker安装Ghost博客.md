@@ -2,6 +2,7 @@
 title: Docker 安装 Ghost 博客指南
 subtitle: Docker 安装 Ghost 博客指南
 date: 2020-04-17
+categories: ["博客"]
 tags: ["docker", "ghost","博客"]
 ---
 # Docker 安装 Ghost 博客指南

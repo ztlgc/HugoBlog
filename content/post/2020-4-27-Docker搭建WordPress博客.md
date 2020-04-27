@@ -1,8 +1,8 @@
 ---
 title: Docker搭建WordPress博客
 subtitle: Docker搭建WordPress博客
-
 date: 2020-04-17
+categories: ["博客"]
 tags: ["docker", "wordpress","博客"]
 ---
 # Docker搭建WordPress博客
