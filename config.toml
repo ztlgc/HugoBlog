@@ -1,6 +1,6 @@
 Title =  "蘭陵N散記"
 LanguageCode = "zh-CN"
-BaseUrl = "http://lanlingzi.cn/"
+BaseUrl = "http://guangcai.website/"
 Theme =  "next"
 MetaDataFormat =  "yaml"
 CanonifyUrls =  true
