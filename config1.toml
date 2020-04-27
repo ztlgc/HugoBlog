@@ -1,0 +1,52 @@
+Title =  "ztlgc"
+LanguageCode = "zh-CN"
+BaseUrl = "http://guangcai.website/"
+Theme = "maupassant"
+googleAnalytics = "UA-154632630-4"
+toc = true
+
+summaryLength = 14 
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    style = "github"
+[menu]
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 2
+
+[params]
+  busuanzi = true
+  localSearch = true
+
+
+[params.cc]
+    name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
+    link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+
+
+[params.utteranc]
+    enable = true
+    repo = "https://github.com/ztlgc/HugoBlog/master"    # 存储评论的Repo，格式为 owner/repo
+    issueTerm = "pathname"  #表示你选择以那种方式让github issue的评论和你的文章关联。
+    theme = "github-light" # 样式主题，有github-light和github-dark两种
+
+
+[[params.links]]
+  title = "Android Gradle权威指南"
+  name = "Android Gradle权威指南"
+  url = "http://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e"
+[[params.links]]
+  title = "常用开发工具CDN镜像"
+  name = "常用开发工具CDN镜像"
+  url = "http://mirrors.flysnow.org/"
