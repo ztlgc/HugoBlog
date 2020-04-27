@@ -28,9 +28,7 @@ chown -R www-data:www-data /var/www/
 
 ## 2、可能遇到的问题
 
-#### 上传文件超
-
-#### 过 php.ini  规定的 upload_max_filesize 最大值
+#### 上传文件超过 php.ini  规定的 upload_max_filesize 最大值
 
 - 如果找不到 php.ini 文件，建议直接新建一个（容器内编辑文件太不方便了）
 

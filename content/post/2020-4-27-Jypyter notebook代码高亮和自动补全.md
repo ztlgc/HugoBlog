@@ -39,12 +39,11 @@ pip install jupyter_contrib_nbextensions
 ```
 
 
-
 # 2、启用
 
 点击取消保护，接下来就可以定制自己的 Jupyter 了
 
-![image-20200418145537079](${images}/image-20200418145537079.png)
+![JheifU.png](https://s1.ax1x.com/2020/04/27/JheifU.png)
 
 比较常用的有：
 

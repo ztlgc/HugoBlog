@@ -1,6 +1,6 @@
 baseURL = "https://blog.guangcai.website"
 languageCode = "zh-CN"
-title = "又在折腾什么呢"
+title = "ztlgc"
 theme = "maupassant"
 googleAnalytics = "UA-154632630-4"
 
@@ -19,8 +19,8 @@ summaryLength = 10
   name = "ztlgc"
 [params]
   author = "ztlgc"
-  subtitle = "看看时间都花在什么上面了"
-  keywords = "java,博客,python"
+  subtitle = "一路走来的收获"
+  keywords = "java,博客,python,数据分析"
   description = "专注于IT互联网，包括但不限于、Java、Android、Python、数据分析等"
   busuanzi = true #启用不算子网页统计
   
