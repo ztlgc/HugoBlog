@@ -23,7 +23,6 @@ summaryLength = 140
   keywords = "java,博客,项目管理,python"
   description = "专注于IT互联网，包括但不限于Go语言(golang)、Java、Android、Python、项目管理、抖音分析、软件架构等"
   busuanzi = true #启用不算子网页统计
-  busuanzi = true
   localSearch = true
   # googleAd = "ca-pub-4031353640611810"  #ca-pub-xxxxxxxxxxxxxx
   localSearch = true # 启用本地搜索
